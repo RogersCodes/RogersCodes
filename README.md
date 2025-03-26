@@ -11,7 +11,7 @@ A full-featured fitness website built using the **MERN Stack**. It includes:
 - Blog section covering exercise, nutrition, and tips
 - Data visualization for workout progress
 
-# 🚀 My Portfolio Website
+### 🚀 My Portfolio Website
 
 This is my personal portfolio showcasing my projects, skills, and experience as a software developer.
 
