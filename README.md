@@ -11,6 +11,24 @@ A full-featured fitness website built using the **MERN Stack**. It includes:
 - Blog section covering exercise, nutrition, and tips
 - Data visualization for workout progress
 
+# 🚀 My Portfolio Website
+
+This is my personal portfolio showcasing my projects, skills, and experience as a software developer.
+
+🔗 **[GitHub Repository](https://github.com/RogersCodes/portfolio-website)**  
+🌍 **[Live Demo](https://rogerscodes.netlify.app/)**
+## 🛠 Technologies Used
+
+### **Frontend:**
+- ⚛️ **React.js** – For building interactive UI components  
+- 🎨 **CSS** – For styling and responsive design  
+- 🚀 **Vite.js** – For faster development and optimized builds    
+
+### **Additional Tools & Libraries:**
+- ✨ **Framer Motion** – For animations and smooth UI transitions  
+- 📸 **React Icons** – For adding SVG-based icons   
+- 🌍 **Netlify/Vercel** – For deploying the website 
+
 ### 🔹 [Automated VAPT](https://github.com/RogersCodes/Automated-VAPT)
 A project focused on **Automated Vulnerability Assessment and Penetration Testing (VAPT)** to enhance security testing and risk analysis.
 
